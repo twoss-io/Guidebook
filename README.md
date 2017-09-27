@@ -9,6 +9,16 @@
 
 請參照[Creating a new repository](https://help.github.com/articles/creating-a-new-repository/)進行設定，並於第二個步驟：
 ```
-In the Owner drop-down, select the account you wish to create the repository on.
+2. In the Owner drop-down, select the account you wish to create the repository on.
 ```
-選擇twoss-io為Owner。
+請選擇 twoss-io 為Owner。
+
+操作至第個五步驟時，請務必勾選 Initialize this repository with a README。此步驟將建立一個預設的README檔案以利日後編輯。
+
+## 專案維護
+
+專案建立完成後建議進行以下設定，以確保專案內容之完整度。
+
+### 設定 Description/ Website
+
+![alt text](https://i.imgur.com/CexeWBQ.gif)
