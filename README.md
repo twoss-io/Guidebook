@@ -21,4 +21,18 @@
 
 ### 設定 Description/ Website
 
-![alt text](https://i.imgur.com/CexeWBQ.gif)
+Description欄位將作為您專案位於[開源計畫討論群組](https://twoss-io.github.io/)之標題，故請務必用字精簡且包含中文。
+Website欄位您可自行設定，依據專案是否有獨立的網站連結使用。
+
+詳細設定請參考以下圖片([來源](https://stackoverflow.com/questions/7757751/how-do-you-change-a-repository-description-on-github))：
+![設定 Description/ Website](https://i.imgur.com/CexeWBQ.gif)
+
+### 設定 Topics
+
+請參照[About topics](https://help.github.com/articles/about-topics/)進行設定。
+Repository admins can add any topics they'd like to a repository's main page. Helpful topics to classify a repository include the repository's intended purpose, subject area, community, or language.
+幫助專案進行非類與搜尋。
+
+### 設定專案圖片(title_img.png)
+
+請上傳一張以title_img命名之png圖檔於專案內，將作為您專案位於[開源計畫討論群組](https://twoss-io.github.io/)之圖示。
